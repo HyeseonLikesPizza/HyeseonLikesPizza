@@ -8,7 +8,7 @@
 
 ---
 
-## 🔭 Current Project — AetherForge
+## 🔭 Current Project — [AetherForge](https://github.com/HyeseonLikesPizza/AetherForge)
 
 > Unreal Engine 5 기반 멀티플레이 게임 프로젝트
 
