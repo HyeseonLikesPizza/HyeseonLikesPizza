@@ -8,20 +8,6 @@
 
 ---
 
-## 🔭 Current Project — [AetherForge](https://github.com/HyeseonLikesPizza/AetherForge)
-
-> Unreal Engine 5 기반 멀티플레이 게임 프로젝트
-
-| 분야 | 내용 |
-|------|------|
-| 🏗 아키텍처 | 언리얼5 모듈 구조 설계 |
-| ⚔️ 전투 시스템 | GAS (Gameplay Ability System) |
-| 🗺 맵 생성 | 절차적 맵 생성 알고리즘 |
-| ⚙️ 최적화 | 멀티스레드 프로그래밍 |
-| 🌐 네트워크 | 멀티플레이 구현 |
-
----
-
 ## 🏆 Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=o0o0ooo)](https://solved.ac/o0o0ooo)
